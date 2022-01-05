@@ -1,6 +1,6 @@
 # Changelog
 
-## [2.0.1] - 2021-03-26
+## [2.0.1] & [2.0.2] - 2021-03-26
 ### DEPRECATED
 This plugin is now deprecated and will not be updated anymore in the future.homepage
 Use the license_generator -> https://pub.dartlang.org/packages/license_generator
